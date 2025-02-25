@@ -1,4 +1,17 @@
-body{
+html {
     background-color:rgb(223, 126, 175);
     background-image:url();
+}
+div{
+    height:200px;
+    width:50%
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}
+
+header {
+    color:mediumslateblue;
 }
