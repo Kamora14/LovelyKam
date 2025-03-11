@@ -1,6 +1,6 @@
 html {
-    background-color:rgb(223, 126, 175);
-    background-image:url();
+    background-image: url('file:///Users/Guest/Desktop/LovelyKam-main/images/redoeyes.png');
+    background-size: cover;
 }
 div{
     height:200px;
@@ -14,4 +14,8 @@ div{
 
 header {
     color:mediumslateblue;
+}
+
+body{
+    background-image: url('redoeyes.png');
 }
