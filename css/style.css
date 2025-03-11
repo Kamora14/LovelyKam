@@ -1,5 +1,5 @@
-html {
-    background-image: url('file:///Users/Guest/Desktop/LovelyKam-main/images/redoeyes.png');
+#homepage_background {
+    background-image: url('../images/redoeyes.png');
     background-size: cover;
 }
 div{
@@ -16,6 +16,7 @@ header {
     color:mediumslateblue;
 }
 
-body{
-    background-image: url('redoeyes.png');
+.vibes{
+   width: 25vw;
+   height: auto;
 }
