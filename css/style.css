@@ -12,11 +12,23 @@ div{
     height: auto;
 }
 
-header {
-    color:mediumslateblue;
-}
+h1 {
+  font-family: Gluten-Black;color: rgb(185, 213, 255);
+  }
 
 .vibes{
    width: 25vw;
    height: auto;
+}
+
+@font-face {
+    font-family: Gluten-Black ;
+    src: url(..//fonts/Gluten-Black.ttf);
+}
+h2 {
+    font-family: Gluten-Black;color: rgb(185, 213, 255); ;
+}
+@font-face{
+    font-family: Gluten-Black ;
+    src: url(..//fonts/Gluten-Black.ttf);    
 }
