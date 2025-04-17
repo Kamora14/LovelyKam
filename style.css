@@ -1,0 +1,34 @@
+#homepage_background {
+    background-image: url('../images/redoeyes.png');
+    background-size: cover;
+}
+div{
+    height:200px;
+    width:50%
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+  font-family: Gluten-Black;color: rgb(185, 213, 255);
+  }
+
+.vibes{
+   width: 25vw;
+   height: auto;
+}
+
+@font-face {
+    font-family: Gluten-Black ;
+    src: url(..//fonts/Gluten-Black.ttf);
+}
+h2 {
+    font-family: Gluten-Black;color: rgb(185, 213, 255); ;
+}
+@font-face{
+    font-family: Gluten-Black ;
+    src: url(..//fonts/Gluten-Black.ttf);    
+}
